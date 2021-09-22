@@ -12,6 +12,7 @@
     "php": "^8.0",
     "bridit/core": "^1.0",
     "illuminate/cache": "^8.0",
+    "illuminate/redis": "^8.0",
     "predis/predis": "^1.1"
   },
   "require-dev": {
